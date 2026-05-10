@@ -37,15 +37,9 @@ Je n'en suis pas le propriétaire sur GitHub, mais j'ai contribué activement au
 
 | Projet | Rôle | Stack | Lien |
 |--------|------|-------|------|
-| **Audio School** | Développeur back-end | Django REST Framework | [divad437/audio-school-backend](https://github.com/divad437/audio-school-backend) · [mobile](https://github.com/divad437/audio-school-mobile) |
-| **Ekila Website** | Développeur back-end | Django REST Framework | [MNLVM/ekila-website](https://github.com/MNLVM/ekila-website) |
+| **Audio School** | Développeur back-end | Django REST Framework | [divad437/audio-school-backend](https://github.com/divad437/audio-school-backend) · [mobile](https://github.com/divad437/audio-school-mobile) (dépot privé) |
+| **Ekila Website** | Développeur back-end | Django REST Framework | [MNLVM/ekila-website](https://github.com/MNLVM/ekila-website) (dépot privé) |
 | **HCMONETIC** (TechRush) | Développeur front-end | HTML · CSS · JS | Dépôt privé |
-
----
-
-##  GitHub Stats
-
-![Mes stats Github](https://github-readme-stats.vercel.app/api?username=DanielEsso237&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
