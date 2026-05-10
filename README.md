@@ -43,4 +43,4 @@ Je n'en suis pas le propriétaire sur GitHub, mais j'ai contribué activement au
 
 ---
 
-*Étudiant en 2ème année de Licence TIC — Architecture des Logiciels, Faculté des Sciences d'Ebolowa*
+*Étudiant en 3ème année de Licence TIC — Architecture des Logiciels, Faculté des Sciences d'Ebolowa*
