@@ -9,6 +9,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -21,7 +22,7 @@
 
 | Projet | Stack | Description |
 |--------|-------|-------------|
-| [**StudEase**](https://github.com/DanielEsso237/studease) | Flutter · FastAPI · PostgreSQL | Chatbot intelligent de guidance académique pour la faculté des sciences d'Ebolowa |
+| [**StudEase**](https://github.com/DanielEsso237/studease) | Flutter · Flask · PostgreSQL | Chatbot intelligent de guidance académique pour la faculté des sciences d'Ebolowa |
 | [**ODC Contest**](https://github.com/DanielEsso237/odc-contest) | Django | Plateforme de vote en ligne pour une communauté, livrée à un client |
 | [**Bibliothèque Universitaire**](https://github.com/DanielEsso237/Projet-Bibliotheque) | Django · MySQL | Gestion de bibliothèque numérique pour la faculté des sciences d'Ebolowa - projet de fin de 2e année |
 | [**BacSuccès-CM**](https://github.com/DanielEsso237/BacSucces-CM) | React · FastAPI | Plateforme d'aide au bac et à d'autres examens (en cours) |
