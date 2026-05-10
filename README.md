@@ -23,9 +23,9 @@
 | Projet | Stack | Description |
 |--------|-------|-------------|
 | [**StudEase**](https://github.com/DanielEsso237/studease) | Flutter · Flask · PostgreSQL | Chatbot intelligent de guidance académique pour la faculté des sciences d'Ebolowa |
-| [**ODC Contest**](https://github.com/DanielEsso237/odc-contest) | Django | Plateforme de vote en ligne pour une communauté, livrée à un client |
-| [**Bibliothèque Universitaire**](https://github.com/DanielEsso237/Projet-Bibliotheque) | Django · MySQL | Gestion de bibliothèque numérique pour la faculté des sciences d'Ebolowa - projet de fin de 2e année |
+| [**ODC Contest**](https://github.com/DanielEsso237/odc_contest) | Django | Plateforme de vote en ligne pour une communauté, livrée à un client |
 | [**BacSuccès-CM**](https://github.com/DanielEsso237/BacSucces-CM) | React · FastAPI | Plateforme d'aide au bac et à d'autres examens (en cours) |
+| [**Bibliothèque Universitaire**](https://github.com/DanielEsso237/Projet-Bibliotheque) | Django · MySQL | Gestion de bibliothèque numérique pour la faculté des sciences d'Ebolowa - projet de fin de 2e année |
 | [**Gestock**](https://github.com/oriol42/Gestocks) | Python · Tkinter · SQLite | Logiciel desktop de gestion de stocks, destinée à la vente à des paticuliers |
 
 ---
@@ -39,7 +39,6 @@ Je n'en suis pas le propriétaire sur GitHub, mais j'ai contribué activement au
 |--------|------|-------|------|
 | **Audio School** | Développeur back-end | Django REST Framework | [divad437/audio-school-backend](https://github.com/divad437/audio-school-backend) · [mobile](https://github.com/divad437/audio-school-mobile) |
 | **Ekila Website** | Développeur back-end | Django REST Framework | [MNLVM/ekila-website](https://github.com/MNLVM/ekila-website) |
-| **Gestock Electron** | Contributeur | Electron · JS | [oriol42/gestock-electron](https://github.com/oriol42/gestock_electron) |
 | **HCMONETIC** (TechRush) | Développeur front-end | HTML · CSS · JS | Dépôt privé |
 
 ---
